@@ -1,0 +1,14 @@
+C:\projects\apis\DADapper\bin\Debug\netstandard2.0\DADapper.deps.json
+C:\projects\apis\DADapper\bin\Debug\netstandard2.0\DADapper.dll
+C:\projects\apis\DADapper\bin\Debug\netstandard2.0\DADapper.pdb
+C:\projects\apis\DADapper\obj\Debug\netstandard2.0\DADapper.csprojAssemblyReference.cache
+C:\projects\apis\DADapper\obj\Debug\netstandard2.0\DADapper.csproj.CoreCompileInputs.cache
+C:\projects\apis\DADapper\obj\Debug\netstandard2.0\DADapper.AssemblyInfoInputs.cache
+C:\projects\apis\DADapper\obj\Debug\netstandard2.0\DADapper.AssemblyInfo.cs
+C:\projects\apis\DADapper\obj\Debug\netstandard2.0\DADapper.dll
+C:\projects\apis\DADapper\obj\Debug\netstandard2.0\DADapper.pdb
+C:\projects\apis\DADapper\bin\Debug\netstandard2.0\DACommon.dll
+C:\projects\apis\DADapper\bin\Debug\netstandard2.0\DACommon.pdb
+C:\projects\apis\DADapper\obj\Debug\netstandard2.0\DADapper.csproj.CopyComplete
+C:\projects\apis\DADapper\bin\Debug\netstandard2.0\Common.dll
+C:\projects\apis\DADapper\bin\Debug\netstandard2.0\Common.pdb

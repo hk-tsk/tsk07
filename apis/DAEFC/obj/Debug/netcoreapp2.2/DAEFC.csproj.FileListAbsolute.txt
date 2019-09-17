@@ -1,0 +1,16 @@
+C:\projects\apis\DAEFC\obj\Debug\netcoreapp2.2\DAEFC.csprojAssemblyReference.cache
+C:\projects\apis\DAEFC\obj\Debug\netcoreapp2.2\DAEFC.csproj.CoreCompileInputs.cache
+C:\projects\apis\DAEFC\obj\Debug\netcoreapp2.2\DAEFC.AssemblyInfoInputs.cache
+C:\projects\apis\DAEFC\obj\Debug\netcoreapp2.2\DAEFC.AssemblyInfo.cs
+C:\projects\apis\DAEFC\bin\Debug\netcoreapp2.2\DAEFC.deps.json
+C:\projects\apis\DAEFC\bin\Debug\netcoreapp2.2\DAEFC.dll
+C:\projects\apis\DAEFC\bin\Debug\netcoreapp2.2\DAEFC.pdb
+C:\projects\apis\DAEFC\bin\Debug\netcoreapp2.2\DACommon.dll
+C:\projects\apis\DAEFC\bin\Debug\netcoreapp2.2\DACommon.pdb
+C:\projects\apis\DAEFC\obj\Debug\netcoreapp2.2\DAEFC.csproj.CopyComplete
+C:\projects\apis\DAEFC\obj\Debug\netcoreapp2.2\DAEFC.dll
+C:\projects\apis\DAEFC\obj\Debug\netcoreapp2.2\DAEFC.pdb
+C:\projects\apis\DAEFC\bin\Debug\netcoreapp2.2\DAEFC.runtimeconfig.json
+C:\projects\apis\DAEFC\bin\Debug\netcoreapp2.2\DAEFC.runtimeconfig.dev.json
+C:\projects\apis\DAEFC\bin\Debug\netcoreapp2.2\Common.dll
+C:\projects\apis\DAEFC\bin\Debug\netcoreapp2.2\Common.pdb

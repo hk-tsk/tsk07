@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300">
+<style>
+    @keyframes moveCircle{0%{stroke:rgb(123, 123, 243)}20%{stroke:rgb(71, 71, 196)}40%{stroke:rgb(19, 19, 95)}60%{stroke:rgb(19, 19, 95)}80%{stroke:rgb(71, 71, 196)}100%{stroke: rgb(123, 123, 243)}}
+
+</style>
+   <g stroke-dasharray="3" stroke="black" stroke-width="3" stroke-opacity="0.3" id="pathA" fill="white">
+        <path transform="matrix(1,0,0,1,-10.6,0.8)"  d="M -44.5 340.9 l 200 -150 l 100 100 l 150 -150" />
+        <path d="M 121.7 359.9 l -20 20.5 l 25 9 z" stroke-dasharray="3" transform="matrix(0.1,-1,1,0.1,16.8,210.6)"/>
+        </g>
+     <g fill-opacity="0.4">
+        <circle transform="matrix(1.1,0,0,1.1,-16.6,-21.6)" cx="159.8" cy="146.9" fill="blue" r="10"  />
+        <circle transform="matrix(1.1,0,0,1.1,-34.4,-35.8)" cx="355" cy="270.5" fill="blue" r="10"/>
+        <circle transform="matrix(1.1,0,0,1.1,-31,-27.1)" cx="318" cy="194.8" fill="blue" r="10"/>
+        <circle transform="matrix(1.1,0,0,1.1,-14.3,-35.3)" cx="134.7" cy="266.1" fill="blue" r="10"/>
+        <circle transform="matrix(1.1,0,0,1.1,-3.5,-34)" cx="15.9" cy="254.9" fill="blue" r="10"/>
+        <circle transform="matrix(1.1,0,0,1.1,-43.6,-23.9)" cx="455.4" cy="167" fill="blue" r="10"/>
+        
+    </g>
+    <rect stroke-linecap="round" x="108" y="12" width="412" height="96" fill="rgba(0, 0, 255, 0)" stroke-width="8" stroke="grey"/>
+
+    <text stroke-width="2" stroke="blue" transform="matrix(1,0,0,1,3.2,-38.5)" font-size="40.8" textLength="270.2" fill="rgb(255, 255, 255)" x="127.6" y="114.6">
+        http://WWW.
+    </text>
+    <g >
+    <circle stroke-width="6" style="animation: moveCircle 1s linear infinite" stroke="#272c92" r="30" cx="445" cy="63" fill="rgba(255, 255, 255, 0.08)" />
+    <circle stroke-width="6" style="animation: moveCircle 1s linear infinite" stroke="#272c92" r="20" cx="445" cy="63" fill="rgba(255, 255, 255, 0.08)" />
+    <circle stroke-width="6" style="animation: moveCircle 1s linear infinite" stroke="#272c92" r="10" cx="445" cy="63" fill="rgba(255, 255, 255, 0.08)" />
+    </g>
+    <!-- <g>
+    <line x1=" 310" x2="350" y1="80" y2="140" stroke-width="10" stroke="blue" />
+    <line x1=" 310" x2="300" y1="80" y2="125" stroke-width="10" stroke="blue" />
+    <line x1=" 310" x2="360" y1="80" y2="100" stroke-width="10" stroke="blue" />
+</g> -->
+</svg>

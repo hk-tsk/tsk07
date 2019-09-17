@@ -1,0 +1,14 @@
+C:\projects\apis\DA\bin\Debug\netstandard2.0\DA.deps.json
+C:\projects\apis\DA\bin\Debug\netstandard2.0\DA.dll
+C:\projects\apis\DA\bin\Debug\netstandard2.0\DA.pdb
+C:\projects\apis\DA\bin\Debug\netstandard2.0\DACommon.dll
+C:\projects\apis\DA\bin\Debug\netstandard2.0\DACommon.pdb
+C:\projects\apis\DA\obj\Debug\netstandard2.0\DA.csprojAssemblyReference.cache
+C:\projects\apis\DA\obj\Debug\netstandard2.0\DA.csproj.CoreCompileInputs.cache
+C:\projects\apis\DA\obj\Debug\netstandard2.0\DA.AssemblyInfoInputs.cache
+C:\projects\apis\DA\obj\Debug\netstandard2.0\DA.AssemblyInfo.cs
+C:\projects\apis\DA\obj\Debug\netstandard2.0\DA.csproj.CopyComplete
+C:\projects\apis\DA\obj\Debug\netstandard2.0\DA.dll
+C:\projects\apis\DA\obj\Debug\netstandard2.0\DA.pdb
+C:\projects\apis\DA\bin\Debug\netstandard2.0\Common.dll
+C:\projects\apis\DA\bin\Debug\netstandard2.0\Common.pdb

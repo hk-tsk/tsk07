@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="148">
+    <g>
+        <g stroke="#bfc6d3" stroke-dasharray="5" stroke-linecap="square">
+            <line id="top_left_down" x1="5.8" x2="86" y1="56.6" y2="94"/>
+            <line id="top_left_up" x1="54.3" x2="5.8" y1="6.3" y2="56.3"/>
+            <line id="top_right_up" x1="54.3" x2="134" y1="6.3" y2="44.3"/>
+            <line id="top_right_down" x1="86" x2="134" y1="93" y2="44.3"/>
+        </g>
+        <text x="44.9" y="64.6" fill="rgb(66, 76, 228)" 
+        font-family="Tahoma" font-size="18" font-weight="600" 
+        textLength="50" transform="matrix(0.8,0.4,-0.4,0.8,35.9,0.4)">
+            Node
+        </text>
+        <g stroke="#bfc6d3" stroke-dasharray="5" stroke-linecap="square">
+            <line id="bottom_left_down" x1="5.8" x2="84" y1="105" y2="141.5"/>
+            <line id="bottom_left_up" x1="54.3" x2="5.8" y1="56.3" y2="104"/>
+            <line id="bottom_right_" x1="54.3" x2="134" y1="56.3" y2="92"/>
+            <line id="bottom_right_down" x1="86" x2="134" y1="141.5" y2="93"/>
+            <line id="down" x1="86" x2="86" y1="94" y2="141.5"/>
+            <line id="left" x1="5.8" x2="5.8" y1="56.3" y2="104"/>
+            <line id="right" x1="135" x2="135" y1="44" y2="93"/>
+            <line id="up" x1="54.3" x2="54.3" y1="6.3" y2="57.3"/>
+        </g>
+        <circle cx="5.8" cy="56.6" r="5" fill="#bfc6d3"/>
+        <circle cx="86" cy="94" r="5" fill="#bfc6d3"/>
+        <circle cx="54.3" cy="6.3" r="5" fill="#bfc6d3"/>
+        <circle cx="134" cy="44.3" r="5" fill="#bfc6d3"/>
+        <circle cx="5.8" cy="105" r="5" fill="#bfc6d3"/>
+        <circle cx="86" cy="141.5" r="5" fill="#bfc6d3"/>
+        <circle cx="135" cy="93" r="5" fill="#bfc6d3"/>
+        <circle cx="54.3" cy="56.3" r="5" fill="#bfc6d3"/>
+    </g>
+</svg>

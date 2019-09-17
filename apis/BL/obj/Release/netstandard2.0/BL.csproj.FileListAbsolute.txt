@@ -1,0 +1,4 @@
+C:\projects\apis\BL\obj\Release\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\projects\apis\BL\obj\Release\netstandard2.0\BL.csproj.CoreCompileInputs.cache
+C:\projects\apis\BL\obj\Release\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\projects\apis\BL\obj\Release\netstandard2.0\BL.AssemblyInfo.cs

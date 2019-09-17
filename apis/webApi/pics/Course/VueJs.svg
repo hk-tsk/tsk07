@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145" height="155">
+    <g>
+        <g stroke="#bfc6d3" stroke-dasharray="5" stroke-linecap="square">
+            <line id="top_left_down" x1="10.8" x2="91" y1="61.6" y2="99"/>
+            <line id="top_left_up" x1="59.3" x2="10.8" y1="11.3" y2="61.3"/>
+            <line id="top_right_up" x1="59.3" x2="139" y1="11.3" y2="49.3"/>
+            <line id="top_right_down" x1="91" x2="139" y1="98" y2="49.3"/>
+        </g>
+        <text x="61.9" y="67.6" fill="rgb(66, 76, 228)" 
+        font-family="Tahoma" font-size="19" 
+        font-weight="600" textLength="35" transform="matrix(0.8,0.4,-0.4,0.8,35.9,0.4)">
+            Vue
+        </text>
+        <g stroke="#bfc6d3" stroke-dasharray="5" stroke-linecap="square">
+            <line id="bottom_left_down" x1="10.8" x2="89" y1="110" y2="149.5"/>
+            <line id="bottom_left_up" x1="59.3" x2="10.8" y1="61.3" y2="109"/>
+            <line id="bottom_right_" x1="59.3" x2="139" y1="61.3" y2="97"/>
+            <line id="bottom_right_down" x1="91" x2="139" y1="150.5" y2="98"/>
+            <line id="down" x1="91" x2="91" y1="99" y2="146.5"/>
+            <line id="left" x1="10.8" x2="10.8" y1="61.3" y2="109"/>
+            <line id="right" x1="140" x2="140" y1="49" y2="98"/>
+            <line id="up" x1="59.3" x2="59.3" y1="11.3" y2="62.3"/>
+        </g>
+        <circle cx="10.8" cy="59.6" r="5" fill="#bfc6d3"/>
+        <circle cx="91" cy="99" r="5" fill="#bfc6d3"/>
+        <circle cx="59.3" cy="11.3" r="5" fill="#bfc6d3"/>
+        <circle cx="139" cy="49.3" r="5" fill="#bfc6d3"/>
+        <circle cx="10.8" cy="110" r="5" fill="#bfc6d3"/>
+        <circle cx="91" cy="146.5" r="5" fill="#bfc6d3"/>
+        <circle cx="140" cy="98" r="5" fill="#bfc6d3"/>
+        <circle cx="59.3" cy="61.3" r="5" fill="#bfc6d3"/>
+    </g>
+</svg>

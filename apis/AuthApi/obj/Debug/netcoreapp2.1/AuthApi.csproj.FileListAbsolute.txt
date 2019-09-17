@@ -1,0 +1,14 @@
+C:\projects\apis\AuthApi\bin\Debug\netcoreapp2.1\AuthApi.deps.json
+C:\projects\apis\AuthApi\bin\Debug\netcoreapp2.1\AuthApi.runtimeconfig.json
+C:\projects\apis\AuthApi\bin\Debug\netcoreapp2.1\AuthApi.runtimeconfig.dev.json
+C:\projects\apis\AuthApi\bin\Debug\netcoreapp2.1\AuthApi.dll
+C:\projects\apis\AuthApi\bin\Debug\netcoreapp2.1\AuthApi.pdb
+C:\projects\apis\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.csproj.CoreCompileInputs.cache
+C:\projects\apis\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.RazorAssemblyInfo.cache
+C:\projects\apis\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.RazorAssemblyInfo.cs
+C:\projects\apis\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.AssemblyInfoInputs.cache
+C:\projects\apis\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.AssemblyInfo.cs
+C:\projects\apis\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.RazorTargetAssemblyInfo.cache
+C:\projects\apis\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.dll
+C:\projects\apis\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.pdb
+C:\projects\apis\AuthApi\obj\Debug\netcoreapp2.1\AuthApi.csprojAssemblyReference.cache

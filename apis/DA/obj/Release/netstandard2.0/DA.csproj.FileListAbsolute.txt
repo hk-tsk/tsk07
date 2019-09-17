@@ -1,0 +1,9 @@
+C:\projects\apis\DA\bin\Release\netstandard2.0\DA.deps.json
+C:\projects\apis\DA\bin\Release\netstandard2.0\DA.dll
+C:\projects\apis\DA\bin\Release\netstandard2.0\DA.pdb
+C:\projects\apis\DA\obj\Release\netstandard2.0\DA.csprojAssemblyReference.cache
+C:\projects\apis\DA\obj\Release\netstandard2.0\DA.csproj.CoreCompileInputs.cache
+C:\projects\apis\DA\obj\Release\netstandard2.0\DA.AssemblyInfoInputs.cache
+C:\projects\apis\DA\obj\Release\netstandard2.0\DA.AssemblyInfo.cs
+C:\projects\apis\DA\obj\Release\netstandard2.0\DA.dll
+C:\projects\apis\DA\obj\Release\netstandard2.0\DA.pdb

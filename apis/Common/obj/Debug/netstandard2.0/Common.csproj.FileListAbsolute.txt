@@ -1,0 +1,9 @@
+C:\projects\apis\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\projects\apis\Common\bin\Debug\netstandard2.0\Common.dll
+C:\projects\apis\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\projects\apis\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\projects\apis\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\projects\apis\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\projects\apis\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\projects\apis\Common\obj\Debug\netstandard2.0\Common.dll
+C:\projects\apis\Common\obj\Debug\netstandard2.0\Common.pdb

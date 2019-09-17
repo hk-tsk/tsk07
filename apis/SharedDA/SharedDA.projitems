@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>ab023cb2-dca8-45ba-a161-1273ad861bcf</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>SharedDA</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)DAAttributes.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\BaseEntity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Category.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Content.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Course.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IUnitOfWork.cs" />
+  </ItemGroup>
+</Project>

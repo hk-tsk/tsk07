@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" fill="black" height="300">
+   <g stroke="white" stroke-width="2" id="pathA">
+        <path  d="M 4 299 l 200 -150 l 100 100 l 150 -150" />
+        <path transform="matrix(0.1,-1,1,0.1,26.3,215.3)" 
+        d="M 169.2 402.1 l -20 20.5 l 25 9 z"  />
+    </g>
+    <circle r="10" cx="4" cy="299" fill="blue" />
+   </svg>

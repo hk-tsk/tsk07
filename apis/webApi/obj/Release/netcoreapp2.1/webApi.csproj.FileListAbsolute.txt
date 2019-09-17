@@ -1,0 +1,6 @@
+C:\projects\apis\webApi\obj\Release\netcoreapp2.1\webApi.csprojAssemblyReference.cache
+C:\projects\apis\webApi\obj\Release\netcoreapp2.1\webApi.csproj.CoreCompileInputs.cache
+C:\projects\apis\webApi\obj\Release\netcoreapp2.1\webApi.RazorAssemblyInfo.cache
+C:\projects\apis\webApi\obj\Release\netcoreapp2.1\webApi.RazorAssemblyInfo.cs
+C:\projects\apis\webApi\obj\Release\netcoreapp2.1\webApi.AssemblyInfoInputs.cache
+C:\projects\apis\webApi\obj\Release\netcoreapp2.1\webApi.AssemblyInfo.cs

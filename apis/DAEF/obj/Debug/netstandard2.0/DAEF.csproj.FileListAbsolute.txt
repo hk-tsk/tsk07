@@ -1,0 +1,14 @@
+C:\projects\apis\DAEF\bin\Debug\netstandard2.0\DAEF.deps.json
+C:\projects\apis\DAEF\bin\Debug\netstandard2.0\DAEF.dll
+C:\projects\apis\DAEF\bin\Debug\netstandard2.0\DAEF.pdb
+C:\projects\apis\DAEF\bin\Debug\netstandard2.0\DACommon.dll
+C:\projects\apis\DAEF\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\projects\apis\DAEF\bin\Debug\netstandard2.0\DACommon.pdb
+C:\projects\apis\DAEF\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\projects\apis\DAEF\obj\Debug\netstandard2.0\DAEF.csprojAssemblyReference.cache
+C:\projects\apis\DAEF\obj\Debug\netstandard2.0\DAEF.csproj.CoreCompileInputs.cache
+C:\projects\apis\DAEF\obj\Debug\netstandard2.0\DAEF.AssemblyInfoInputs.cache
+C:\projects\apis\DAEF\obj\Debug\netstandard2.0\DAEF.AssemblyInfo.cs
+C:\projects\apis\DAEF\obj\Debug\netstandard2.0\DAEF.csproj.CopyComplete
+C:\projects\apis\DAEF\obj\Debug\netstandard2.0\DAEF.dll
+C:\projects\apis\DAEF\obj\Debug\netstandard2.0\DAEF.pdb

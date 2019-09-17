@@ -1,0 +1,14 @@
+C:\projects\apis\DACommon\bin\Debug\netstandard2.0\DACommon.deps.json
+C:\projects\apis\DACommon\bin\Debug\netstandard2.0\DACommon.dll
+C:\projects\apis\DACommon\bin\Debug\netstandard2.0\DACommon.pdb
+C:\projects\apis\DACommon\obj\Debug\netstandard2.0\DACommon.csproj.CoreCompileInputs.cache
+C:\projects\apis\DACommon\obj\Debug\netstandard2.0\DACommon.AssemblyInfoInputs.cache
+C:\projects\apis\DACommon\obj\Debug\netstandard2.0\DACommon.AssemblyInfo.cs
+C:\projects\apis\DACommon\obj\Debug\netstandard2.0\DACommon.dll
+C:\projects\apis\DACommon\obj\Debug\netstandard2.0\DACommon.pdb
+C:\projects\apis\DACommon\obj\Debug\netstandard2.0\DACommon.csprojAssemblyReference.cache
+C:\projects\apis\DACommon\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\projects\apis\DACommon\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\projects\apis\DACommon\obj\Debug\netstandard2.0\DACommon.csproj.CopyComplete
+C:\projects\apis\DACommon\bin\Debug\netstandard2.0\Common.dll
+C:\projects\apis\DACommon\bin\Debug\netstandard2.0\Common.pdb
