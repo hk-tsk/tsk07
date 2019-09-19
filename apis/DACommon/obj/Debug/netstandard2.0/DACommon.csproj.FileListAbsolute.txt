@@ -12,3 +12,15 @@ C:\projects\apis\DACommon\bin\Debug\netstandard2.0\System.ComponentModel.Annotat
 C:\projects\apis\DACommon\obj\Debug\netstandard2.0\DACommon.csproj.CopyComplete
 C:\projects\apis\DACommon\bin\Debug\netstandard2.0\Common.dll
 C:\projects\apis\DACommon\bin\Debug\netstandard2.0\Common.pdb
+C:\projects\tsk07\apis\DACommon\bin\Debug\netstandard2.0\DACommon.deps.json
+C:\projects\tsk07\apis\DACommon\bin\Debug\netstandard2.0\DACommon.dll
+C:\projects\tsk07\apis\DACommon\bin\Debug\netstandard2.0\DACommon.pdb
+C:\projects\tsk07\apis\DACommon\bin\Debug\netstandard2.0\Common.dll
+C:\projects\tsk07\apis\DACommon\bin\Debug\netstandard2.0\Common.pdb
+C:\projects\tsk07\apis\DACommon\obj\Debug\netstandard2.0\DACommon.csprojAssemblyReference.cache
+C:\projects\tsk07\apis\DACommon\obj\Debug\netstandard2.0\DACommon.csproj.CoreCompileInputs.cache
+C:\projects\tsk07\apis\DACommon\obj\Debug\netstandard2.0\DACommon.AssemblyInfoInputs.cache
+C:\projects\tsk07\apis\DACommon\obj\Debug\netstandard2.0\DACommon.AssemblyInfo.cs
+C:\projects\tsk07\apis\DACommon\obj\Debug\netstandard2.0\DACommon.csproj.CopyComplete
+C:\projects\tsk07\apis\DACommon\obj\Debug\netstandard2.0\DACommon.dll
+C:\projects\tsk07\apis\DACommon\obj\Debug\netstandard2.0\DACommon.pdb

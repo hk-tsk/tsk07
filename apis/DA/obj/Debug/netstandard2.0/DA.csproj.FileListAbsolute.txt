@@ -12,3 +12,17 @@ C:\projects\apis\DA\obj\Debug\netstandard2.0\DA.dll
 C:\projects\apis\DA\obj\Debug\netstandard2.0\DA.pdb
 C:\projects\apis\DA\bin\Debug\netstandard2.0\Common.dll
 C:\projects\apis\DA\bin\Debug\netstandard2.0\Common.pdb
+C:\projects\tsk07\apis\DA\bin\Debug\netstandard2.0\DA.deps.json
+C:\projects\tsk07\apis\DA\bin\Debug\netstandard2.0\DA.dll
+C:\projects\tsk07\apis\DA\bin\Debug\netstandard2.0\DA.pdb
+C:\projects\tsk07\apis\DA\bin\Debug\netstandard2.0\Common.dll
+C:\projects\tsk07\apis\DA\bin\Debug\netstandard2.0\DACommon.dll
+C:\projects\tsk07\apis\DA\bin\Debug\netstandard2.0\DACommon.pdb
+C:\projects\tsk07\apis\DA\bin\Debug\netstandard2.0\Common.pdb
+C:\projects\tsk07\apis\DA\obj\Debug\netstandard2.0\DA.csprojAssemblyReference.cache
+C:\projects\tsk07\apis\DA\obj\Debug\netstandard2.0\DA.csproj.CoreCompileInputs.cache
+C:\projects\tsk07\apis\DA\obj\Debug\netstandard2.0\DA.AssemblyInfoInputs.cache
+C:\projects\tsk07\apis\DA\obj\Debug\netstandard2.0\DA.AssemblyInfo.cs
+C:\projects\tsk07\apis\DA\obj\Debug\netstandard2.0\DA.csproj.CopyComplete
+C:\projects\tsk07\apis\DA\obj\Debug\netstandard2.0\DA.dll
+C:\projects\tsk07\apis\DA\obj\Debug\netstandard2.0\DA.pdb

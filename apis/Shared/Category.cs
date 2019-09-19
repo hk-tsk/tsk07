@@ -10,6 +10,7 @@ namespace webApi.Entities
         public string Name { get; set; }
         public string Title { get; set; }
         public int ImagePosition { get; set; }
+        public int ImageTheme { get; set; }
         public string Description { get; set; }
         public string ImageUrl { get; set; }
         public long CourseId { get; set; }

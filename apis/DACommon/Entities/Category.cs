@@ -9,6 +9,7 @@ namespace DACommon.Entities
         public Category()
         {
             this.ImagePosition = (int)Enums.ImagePosition.Top;
+            this.ImageTheme = (int)Enums.ImageTheme.None;
         }
 
         [IsUnique]
@@ -18,6 +19,8 @@ namespace DACommon.Entities
         public string Description { get; set; }
         [Required]
         public int ImagePosition { get; set; }
+        [Required]
+        public int ImageTheme { get; set; }
         public string ImageUrl { get; set; }
 
         [ReferenceEntity(nameof(CourseId))]

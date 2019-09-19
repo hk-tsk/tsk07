@@ -903,11 +903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\apis\\DADapper\\DADapper.csproj",
+      "projectUniqueName": "C:\\projects\\tsk07\\apis\\DADapper\\DADapper.csproj",
       "projectName": "DADapper",
-      "projectPath": "C:\\projects\\apis\\DADapper\\DADapper.csproj",
+      "projectPath": "C:\\projects\\tsk07\\apis\\DADapper\\DADapper.csproj",
       "packagesPath": "C:\\Users\\K\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\apis\\DADapper\\obj\\",
+      "outputPath": "C:\\projects\\tsk07\\apis\\DADapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -928,8 +928,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\projects\\apis\\DACommon\\DACommon.csproj": {
-              "projectPath": "C:\\projects\\apis\\DACommon\\DACommon.csproj"
+            "C:\\projects\\tsk07\\apis\\DACommon\\DACommon.csproj": {
+              "projectPath": "C:\\projects\\tsk07\\apis\\DACommon\\DACommon.csproj"
             }
           }
         }

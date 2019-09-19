@@ -11802,11 +11802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\apis\\AuthApi\\AuthApi.csproj",
+      "projectUniqueName": "C:\\projects\\tsk07\\apis\\AuthApi\\AuthApi.csproj",
       "projectName": "AuthApi",
-      "projectPath": "C:\\projects\\apis\\AuthApi\\AuthApi.csproj",
+      "projectPath": "C:\\projects\\tsk07\\apis\\AuthApi\\AuthApi.csproj",
       "packagesPath": "C:\\Users\\K\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\apis\\AuthApi\\obj\\",
+      "outputPath": "C:\\projects\\tsk07\\apis\\AuthApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",

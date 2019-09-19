@@ -7,3 +7,12 @@ C:\projects\apis\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
 C:\projects\apis\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
 C:\projects\apis\Common\obj\Debug\netstandard2.0\Common.dll
 C:\projects\apis\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\projects\tsk07\apis\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\projects\tsk07\apis\Common\bin\Debug\netstandard2.0\Common.dll
+C:\projects\tsk07\apis\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\projects\tsk07\apis\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\projects\tsk07\apis\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\projects\tsk07\apis\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\projects\tsk07\apis\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\projects\tsk07\apis\Common\obj\Debug\netstandard2.0\Common.dll
+C:\projects\tsk07\apis\Common\obj\Debug\netstandard2.0\Common.pdb

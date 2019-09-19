@@ -202,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\apis\\DACommon\\DACommon.csproj",
+      "projectUniqueName": "C:\\projects\\tsk07\\apis\\DACommon\\DACommon.csproj",
       "projectName": "DACommon",
-      "projectPath": "C:\\projects\\apis\\DACommon\\DACommon.csproj",
+      "projectPath": "C:\\projects\\tsk07\\apis\\DACommon\\DACommon.csproj",
       "packagesPath": "C:\\Users\\K\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\apis\\DACommon\\obj\\",
+      "outputPath": "C:\\projects\\tsk07\\apis\\DACommon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -227,8 +227,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\projects\\apis\\Common\\Common.csproj": {
-              "projectPath": "C:\\projects\\apis\\Common\\Common.csproj"
+            "C:\\projects\\tsk07\\apis\\Common\\Common.csproj": {
+              "projectPath": "C:\\projects\\tsk07\\apis\\Common\\Common.csproj"
             }
           }
         }

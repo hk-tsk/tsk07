@@ -36,6 +36,8 @@ namespace DAEFC.Migrations
 
                     b.Property<int>("ImagePosition");
 
+                    b.Property<int>("ImageTheme");
+
                     b.Property<string>("ImageUrl")
                         .HasMaxLength(300);
 

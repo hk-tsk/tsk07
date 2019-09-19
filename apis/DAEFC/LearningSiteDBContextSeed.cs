@@ -50,7 +50,7 @@ namespace DAEFC
                 {
                     Name = "React",
                     Title = "آموزش React",
-                    IntroInfo = "در این بخش، توضیحات کاملی از ایحاد تا اجرا یک برنامه React داده می شود. به امکانات redux  و route و ... نیز پرداخته می شود.",
+                    IntroInfo = "در این بخش، توضیحات کاملی از ایجاد تا اجرا یک برنامه React داده می شود. به امکانات redux  و route و ... نیز پرداخته می شود.",
                     Img = "React.svg",
                     IsNew = true,
                 },
@@ -79,7 +79,7 @@ namespace DAEFC
         {
             return new List<Category>()
             {
-                CreateCategory(courseId,"CreateReactProject","ایجاد پروژه React","CreateReactProject.gif", Enums.ImagePosition.Left),
+                CreateCategory(courseId,"CreateReactProject","ایجاد پروژه React","CreateReactProject.png", Enums.ImagePosition.Left,Enums.ImageTheme.None,"•	React یکی از برنامه های SPA (Single Page Application) می باشد. در این بخش نحوه ایجاد یک پروژه React را با دو برنامه Visual Studio Code  و Visual Studio 2019 بیان می کنیم."),
                 CreateCategory(courseId,"CreateReactRoute","ایجاد Route","CreateReactRoute.svg",Enums.ImagePosition.Right),
             };
         }
@@ -88,9 +88,10 @@ namespace DAEFC
         {
             return new List<Category>()
             {
-                CreateCategory(courseId,"CreateVueProject","ایجاد پروژه Vue","CreateVueProject.gif"),
-                CreateCategory(courseId,"CreateVueRoute","ایجاد Route در Vue","CreateVueRoute.svg"),
-                CreateCategory(courseId,"ApplyVuex","اعمال vuex در پروژه","ApplyVuex.jpg"),
+                CreateCategory(courseId,"CreateVueProject","ایجاد پروژه Vue","CreateVueProject.gif",
+                Enums.ImagePosition.Left, Enums.ImageTheme.WithFrame,"Vue یکی دیگر از برنامه های SPA (Single Page Application) می باشد. در این بخش نحوه ایجاد یک پروژه Vue را با برنامه Visual Studio Code  بیان می کنیم."),
+                CreateCategory(courseId,"CreateVueRoute","ایجاد Route در Vue","VueRoute.png", Enums.ImagePosition.Left, Enums.ImageTheme.WithFrame),
+                CreateCategory(courseId,"ApplyVuex","اعمال vuex در پروژه","ApplyVuex.svg", Enums.ImagePosition.Left, Enums.ImageTheme.WithFrame),
             };
         }
 
@@ -98,12 +99,14 @@ namespace DAEFC
         {
             return new List<Category>()
             {
-                 CreateCategory(courseId,"Installation","نصب برنامه NodeJs","InstallNode.jpg"),
+                 CreateCategory(courseId,"Installation","نصب برنامه NodeJs","InstallNode.jpg", Enums.ImagePosition.Top, Enums.ImageTheme.WithFrame,"در این بخش در مورد نحوه نصب برنامه NodeJs توضیح داده خواهد شد."),
             };
 
         }
 
-        private static Category CreateCategory(long courseId, string name, string title, string imgUrl = null, Enums.ImagePosition imageposition = Enums.ImagePosition.Top, string desc = null)
+        private static Category CreateCategory(long courseId, string name, string title, string imgUrl = null,
+                        Enums.ImagePosition imageposition = Enums.ImagePosition.Top, Enums.ImageTheme imageTheme = Enums.ImageTheme.None,
+                        string desc = null)
         {
             return new Category()
             {
@@ -113,6 +116,7 @@ namespace DAEFC
                 Description = desc,
                 CourseId = courseId,
                 ImagePosition = (int)imageposition,
+                ImageTheme = (int)imageTheme,
             };
         }
     }

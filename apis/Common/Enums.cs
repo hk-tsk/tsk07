@@ -10,5 +10,10 @@
             Right
         }
 
+        public enum ImageTheme
+        {
+            None,
+           WithFrame,
+        }
     }
 }

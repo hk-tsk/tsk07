@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\apis\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\projects\\tsk07\\apis\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\projects\\apis\\Common\\Common.csproj",
+      "projectPath": "C:\\projects\\tsk07\\apis\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\K\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\apis\\Common\\obj\\",
+      "outputPath": "C:\\projects\\tsk07\\apis\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",

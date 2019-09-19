@@ -13262,11 +13262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\apis\\webApi\\webApi.csproj",
+      "projectUniqueName": "C:\\projects\\tsk07\\apis\\webApi\\webApi.csproj",
       "projectName": "webApi",
-      "projectPath": "C:\\projects\\apis\\webApi\\webApi.csproj",
+      "projectPath": "C:\\projects\\tsk07\\apis\\webApi\\webApi.csproj",
       "packagesPath": "C:\\Users\\K\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\apis\\webApi\\obj\\",
+      "outputPath": "C:\\projects\\tsk07\\apis\\webApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -13287,11 +13287,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\projects\\apis\\BL\\BL.csproj": {
-              "projectPath": "C:\\projects\\apis\\BL\\BL.csproj"
+            "C:\\projects\\tsk07\\apis\\BL\\BL.csproj": {
+              "projectPath": "C:\\projects\\tsk07\\apis\\BL\\BL.csproj"
             },
-            "C:\\projects\\apis\\DAEFC\\DAEFC.csproj": {
-              "projectPath": "C:\\projects\\apis\\DAEFC\\DAEFC.csproj"
+            "C:\\projects\\tsk07\\apis\\DAEFC\\DAEFC.csproj": {
+              "projectPath": "C:\\projects\\tsk07\\apis\\DAEFC\\DAEFC.csproj"
             }
           }
         }
